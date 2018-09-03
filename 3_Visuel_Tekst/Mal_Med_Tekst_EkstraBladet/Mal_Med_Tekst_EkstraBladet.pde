@@ -31,19 +31,19 @@ int counter = 0;
 int articleCounter = 10;
 
 void setup() {
-  size(800,600,P2D);
+  size(1200,800);
   background(255);
   smooth();
   cursor(CROSS);
   
-  xml = loadXML("http://ekstrabladet.dk/rssfeed/Verden_p__vrangen_RSS/");
+  xml = loadXML("https://ekstrabladet.dk/rssfeed/nyheder/");
   XML[] titles = xml.getChildren("channel/item/title");
   
   for (int i = 0; i < titles.length; i++) {    
     headlines = append(headlines,titles[i].getContent());
   }
   
-  font = loadFont("Times-Roman-72.vlw");
+  font = createFont("Times-Roman", 72);
   textFont(font,fontSizeMin);
   textAlign(LEFT);
   fill(0);

@@ -31,7 +31,7 @@ void setup() {
 void draw(){
   
   image(images[(int)random(images.length)],0,0);
-  filter(BLUR, 1);
+  filter(BLUR, 2);
   fill(255);
   
   String word1 = firstWords[int(random(firstWords.length))];

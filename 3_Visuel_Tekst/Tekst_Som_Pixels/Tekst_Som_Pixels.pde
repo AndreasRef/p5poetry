@@ -51,7 +51,7 @@ void setup() {
   
   font = createFont("Times",10);
   
-  img = loadImage("pic2.png");
+  img = loadImage("kesi.png");
   println(img.width+" x "+img.height);
 }
 
@@ -60,7 +60,6 @@ void draw() {
 
   background(255);
   textAlign(LEFT);
-  //textAlign(LEFT,CENTER); //// also nice!
 
   float x = 0, y = 10;
   int counter = 0;

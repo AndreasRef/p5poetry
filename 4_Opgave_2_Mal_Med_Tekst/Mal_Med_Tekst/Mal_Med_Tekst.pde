@@ -40,8 +40,8 @@ float x = 0, y = 0;
 float stepSize = 5.0;
 
 PFont font;
-String letters = "Sie hören nicht die folgenden Gesänge, Die Seelen, denen ich die ersten sang, Zerstoben ist das freundliche Gedränge, Verklungen ach! der erste Wiederklang.";
-int fontSizeMin = 3;
+String letters = "Det her er en tekst, som du kan skrive med. Prøv at skift den ud med noget andet, og se hvad der sker? ";
+int fontSizeMin = 8;
 float angleDistortion = 0.0;
 
 int counter = 0;
@@ -140,20 +140,3 @@ String timestamp() {
   Calendar now = Calendar.getInstance();
   return String.format("%1$ty%1$tm%1$td_%1$tH%1$tM%1$tS", now);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

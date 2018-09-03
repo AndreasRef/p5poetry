@@ -2,8 +2,8 @@
 import rita.*;
 
 RiMarkov markov;
-String line = "click to (re)generate!";
-String[] files = {"grimm.txt", "bible.txt"};
+String line = "Klik for at generere ny tekst";
+String[] files = {"politik.txt"};
 int x = 160, y = 240;
 
 void setup()
