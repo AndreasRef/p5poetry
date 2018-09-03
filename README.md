@@ -11,6 +11,8 @@ Bliv klar til workshoppen ved at gøre følgende:
 3) Download Processing her: 
 https://processing.org/download/
 
+4) Udpak og installer Processing på din computer
+
 ## Online alternativer (hvis der er problemer med at installere Processing)
 * https://editor.p5js.org/AndreasRef/sketches/SkOSnmivX (opgave 2)
 * https://editor.p5js.org/generative-design/sketches/P_2_2_6_05
