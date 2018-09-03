@@ -17,6 +17,11 @@ https://processing.org/download/
 Afholdt af Andreas Refsgaard: http://andreasrefsgaard.dk
 Arrangeret af Poesiens Hus: http://poesienshus.dk/
 
-### Online alternativer
+## Online alternativer fra http://www.generative-gestaltung.de/2/
+https://editor.p5js.org/generative-design/sketches/P_2_2_6_05
+https://editor.p5js.org/generative-design/sketches/P_2_3_3_01
+https://editor.p5js.org/generative-design/sketches/P_3_1_3_01
+https://editor.p5js.org/generative-design/sketches/P_4_3_2_01
+
 
 
