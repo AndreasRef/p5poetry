@@ -1,6 +1,6 @@
 # p5poetry
 
-Lav din egen poesirobot workshop på Blaagårds Bibliotek september 2018
+# h2 Lav din egen poesirobot workshop på Blaagårds Bibliotek september 2018
 
 Bliv klar til workshoppen ved at gøre følgende:
 
@@ -13,8 +13,10 @@ https://processing.org/download/
 
 
 
-
+# h2 Credits
 Afholdt af Andreas Refsgaard: http://andreasrefsgaard.dk
 Arrangeret af Poesiens Hus: http://poesienshus.dk/
+
+# h3 Online alternativer
 
 
