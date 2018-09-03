@@ -11,16 +11,15 @@ Bliv klar til workshoppen ved at gøre følgende:
 3) Download Processing her: 
 https://processing.org/download/
 
-
+## Online alternativer (hvis der er problemer med at installere Processing)
+* https://editor.p5js.org/AndreasRef/sketches/SkOSnmivX (opgave 2)
+* https://editor.p5js.org/generative-design/sketches/P_2_2_6_05
+* https://editor.p5js.org/generative-design/sketches/P_2_3_3_01 (opgave 3)
+* https://editor.p5js.org/generative-design/sketches/P_3_1_3_01
+* https://editor.p5js.org/generative-design/sketches/P_4_3_2_01
+* https://editor.p5js.org/AndreasRef/sketches/H1UZZNiv7 (opgave 4)
 
 ## Credits
 - Afholdt af Andreas Refsgaard: http://andreasrefsgaard.dk
 - Arrangeret af Poesiens Hus: http://poesienshus.dk/
 
-## Online alternativer
-* https://editor.p5js.org/AndreasRef/sketches/SkOSnmivX
-* https://editor.p5js.org/generative-design/sketches/P_2_2_6_05
-* https://editor.p5js.org/generative-design/sketches/P_2_3_3_01
-* https://editor.p5js.org/generative-design/sketches/P_3_1_3_01
-* https://editor.p5js.org/generative-design/sketches/P_4_3_2_01
-* https://editor.p5js.org/AndreasRef/sketches/H1UZZNiv7
