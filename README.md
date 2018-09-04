@@ -23,7 +23,8 @@ https://processing.org/download/
 
 ## Gode steder at finde tekst: 
 * https://da.wikipedia.org/wiki/Forside
-* 
+* http://www.adl.dk/ (ældre dansk litteratur)
+* https://genius.com/ (sangtekster)
 
 ## Opgaver
 ...Kommer snart...
