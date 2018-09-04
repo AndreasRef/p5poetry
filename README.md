@@ -29,6 +29,10 @@ https://processing.org/download/
 ## Aflevering inden 12:50
 Indsæt link til din opgave her: https://docs.google.com/spreadsheets/d/11G19c-Z0Es5VztFj3unCpcTG7Qv9HIVSCD6wkgBi_vo/edit?usp=sharing
 
+![alt text](https://github.com/AndreasRef/p5poetry/blob/master/img1.png "Trin 1")
+![alt text](https://github.com/AndreasRef/p5poetry/blob/master/img1.png "Trin 2")
+
+
 ## Credits
 - Afholdt af Andreas Refsgaard: http://andreasrefsgaard.dk
 - Arrangeret af Poesiens Hus: http://poesienshus.dk/
