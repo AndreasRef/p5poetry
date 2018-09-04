@@ -26,8 +26,8 @@ https://processing.org/download/
 * http://www.adl.dk/ (ældre dansk litteratur)
 * https://genius.com/ (sangtekster)
 
-## Opgaver
-...Kommer snart...
+## Aflevering inden 12:50
+Indsæt link til din opgave her: https://docs.google.com/spreadsheets/d/11G19c-Z0Es5VztFj3unCpcTG7Qv9HIVSCD6wkgBi_vo/edit?usp=sharing
 
 ## Credits
 - Afholdt af Andreas Refsgaard: http://andreasrefsgaard.dk
