@@ -1,5 +1,4 @@
 // Displaying text on screen - using a default font.
-
 size (300, 300); 
 background (255); 
 
