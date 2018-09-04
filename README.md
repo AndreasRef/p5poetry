@@ -14,12 +14,12 @@ https://processing.org/download/
 4) Udpak og installer Processing på din computer
 
 ## Online alternativer (hvis der er problemer med at installere Processing)
-* https://editor.p5js.org/AndreasRef/sketches/SkOSnmivX (opgave 2)
+* https://editor.p5js.org/AndreasRef/sketches/SkOSnmivX (opgave 2 - generativt digt)
 * https://editor.p5js.org/generative-design/sketches/P_2_2_6_05
-* https://editor.p5js.org/generative-design/sketches/P_2_3_3_01 (opgave 3)
+* https://editor.p5js.org/generative-design/sketches/P_2_3_3_01 (opgave 3 - mal med tekst)
 * https://editor.p5js.org/generative-design/sketches/P_3_1_3_01
 * https://editor.p5js.org/generative-design/sketches/P_4_3_2_01
-* https://editor.p5js.org/AndreasRef/sketches/H1UZZNiv7 (opgave 4)
+* https://editor.p5js.org/AndreasRef/sketches/H1UZZNiv7 (opgave 4 - bland tekster sammen)
 
 ## Credits
 - Afholdt af Andreas Refsgaard: http://andreasrefsgaard.dk
