@@ -3,7 +3,7 @@ import rita.*;
 
 RiMarkov markov;
 String line = "click to (re)generate!";
-String[] files = {"sociologiSamlet.txt"};
+String[] files = {"hc_andersen.txt", "biblen.txt"};
 int x = 160, y = 240;
 
 void setup()
