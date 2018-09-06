@@ -7,7 +7,7 @@ String [] secondWords = { //tillægsord
   "store", "behårede","blå","skræmmende","grønne", "søde","grædende","flotte"};
 
 String [] thirdWords = { //navneord
-  "kat", "hund","fisk","aubergine", "postmand", "traktor",};
+  "kat", "hund","fisk","aubergine", "postmand", "traktor"};
   
 String [] fourthWords = { //udsagnsord
   "hikker", "knipser","danser","spiser","sluprer","drømmer"};
